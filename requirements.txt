@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+pydantic
+python-dotenv
+plotly
+pytest
+anthropic
+faker 

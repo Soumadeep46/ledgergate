@@ -1,0 +1,5182 @@
+[
+  {
+    "case_id": "VF-0001",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0127",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "KJMQS0863D",
+      "gstin": "34KJMQS0863D1Z29",
+      "bank_account_name": "Ravi Enterprises",
+      "monthly_gmv": 3476824.18
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0002",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0086",
+      "legal_name": "Arjun Enterprises",
+      "trade_name": "Arjun Enterprises",
+      "pan": "SYAFU8333R",
+      "gstin": "31SYAFU8333R1282",
+      "bank_account_name": "Arjun Enterprises",
+      "monthly_gmv": 1817022.17
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0003",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0195",
+      "legal_name": "Arjun Ventures",
+      "trade_name": "Arjun Ventures",
+      "pan": "UUDLL4405X",
+      "gstin": "24UUDLL4405X1Z98",
+      "bank_account_name": "Arjun Ventures",
+      "monthly_gmv": 2678617.24
+    },
+    "document_issues": [],
+    "gstin_active": false,
+    "restricted_flag": false,
+    "hard_issue": "INACTIVE_GSTIN",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0004",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0006",
+      "legal_name": "Karan Mart",
+      "trade_name": "Karan Mart",
+      "pan": "JZDMT8116T",
+      "gstin": "05JZDMT8116T1465",
+      "bank_account_name": "Karan Mart",
+      "monthly_gmv": 1294499.89
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0005",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0138",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "MRRDZ4290X",
+      "gstin": "10MRRDZ4290X1338",
+      "bank_account_name": "Anita Mart",
+      "monthly_gmv": 2629518.41
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0006",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0018",
+      "legal_name": "Arjun Textiles",
+      "trade_name": "Arjun Textiles",
+      "pan": "ELSOC9610L",
+      "gstin": "36ELSOC9610L1113",
+      "bank_account_name": "Arjun Textiles",
+      "monthly_gmv": 4499958.37
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0007",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0122",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "GNMCZ4893N",
+      "gstin": "03GNMCZ4893N1621",
+      "bank_account_name": "Anita Textiles",
+      "monthly_gmv": 1340831.84
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0008",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0118",
+      "legal_name": "Anita Solutions",
+      "trade_name": "Anita Solutions",
+      "pan": "GWZNK2557F",
+      "gstin": "28GWZNK2557F1603",
+      "bank_account_name": "Anita Solutions",
+      "monthly_gmv": 3234414.52
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0009",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0054",
+      "legal_name": "Karan Textiles",
+      "trade_name": "Karan Textiles",
+      "pan": "AWUZX7897H",
+      "gstin": "23AWUZX7897H1222",
+      "bank_account_name": "Karan Textiles",
+      "monthly_gmv": 3790107.75
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0010",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0048",
+      "legal_name": "Divya Retail",
+      "trade_name": "Divya Retail",
+      "pan": "LMITJ9892M",
+      "gstin": "15LMITJ9892M1943",
+      "bank_account_name": "Divya Retail",
+      "monthly_gmv": 2391232.44
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0011",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0080",
+      "legal_name": "Divya Textiles",
+      "trade_name": "Divya Textiles",
+      "pan": "UNKEF6804L",
+      "gstin": "36UNKEF6804L1Z75",
+      "bank_account_name": "Divya Textiles",
+      "monthly_gmv": 667154.97
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0012",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0060",
+      "legal_name": "Divya Enterprises",
+      "trade_name": "Divya Enterprises",
+      "pan": "RQPAU2150Y",
+      "gstin": "36RQPAU2150Y1229",
+      "bank_account_name": "Divya Enterprises",
+      "monthly_gmv": 1676369.79
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0013",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0062",
+      "legal_name": "Priya Ventures",
+      "trade_name": "Priya Ventures",
+      "pan": "LJPLF6796J",
+      "gstin": "30LJPLF6796J170Z",
+      "bank_account_name": "Priya Ventures",
+      "monthly_gmv": 4244127.79
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0014",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0114",
+      "legal_name": "Ravi Mart",
+      "trade_name": "Ravi Mart",
+      "pan": "GAFBL7508P",
+      "gstin": "03GAFBL7508P1311",
+      "bank_account_name": "Ravi Mart",
+      "monthly_gmv": 3225548.75
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0015",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0197",
+      "legal_name": "Divya Solutions",
+      "trade_name": "Divya Solutions",
+      "pan": "TEXVA2920Q",
+      "gstin": "11TEXVA2920Q1178",
+      "bank_account_name": "Divya Solutions",
+      "monthly_gmv": 1907202.54
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "PROHIBITED_CATEGORY",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0016",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0033",
+      "legal_name": "Priya Foods",
+      "trade_name": "Priya Foods",
+      "pan": "CUWPD9734L",
+      "gstin": "05CUWPD9734L1539",
+      "bank_account_name": "Priya Foods",
+      "monthly_gmv": 4120538.04
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0017",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0198",
+      "legal_name": "Ravi Traders",
+      "trade_name": "Ravi Traders",
+      "pan": "RQARK3541W",
+      "gstin": "01RQARK3541W1377",
+      "bank_account_name": "Ravi Traders",
+      "monthly_gmv": 1386386.89
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "COMPLIANCE_SCREENING_HIT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0018",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0068",
+      "legal_name": "Priya Traders",
+      "trade_name": "Priya Traders",
+      "pan": "ETBCL4642Q",
+      "gstin": "08ETBCL4642Q1317",
+      "bank_account_name": "Priya Traders",
+      "monthly_gmv": 2986014.54
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0019",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0177",
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies",
+      "pan": "BEJTO8056P",
+      "gstin": "02BEJTO8056P1476",
+      "bank_account_name": "Vikram Enterprises",
+      "monthly_gmv": 2199291.91
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0020",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0120",
+      "legal_name": "Sneha Solutions",
+      "trade_name": "Sneha Solutions",
+      "pan": "QXWCS1266C",
+      "gstin": "13QXWCS1266C1867",
+      "bank_account_name": "Sneha Solutions",
+      "monthly_gmv": 1124231.78
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0021",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0082",
+      "legal_name": "Priya Solutions",
+      "trade_name": "Priya Solutions",
+      "pan": "UDHVS1740C",
+      "gstin": "02UDHVS1740C1296",
+      "bank_account_name": "Priya Solutions",
+      "monthly_gmv": 3649812.19
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0022",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0172",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "MCGFN0921W",
+      "gstin": "12MCGFN0921W1Z93",
+      "bank_account_name": "Vikram Retail",
+      "monthly_gmv": 158468.84
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0023",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0038",
+      "legal_name": "Sneha Textiles",
+      "trade_name": "Sneha Textiles",
+      "pan": "FEANH9561Y",
+      "gstin": "32FEANH9561Y1103",
+      "bank_account_name": "Sneha Textiles",
+      "monthly_gmv": 2419635.33
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0024",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0055",
+      "legal_name": "Arjun Enterprises",
+      "trade_name": "Arjun Enterprises",
+      "pan": "XQILP7027F",
+      "gstin": "13XQILP7027F115Z",
+      "bank_account_name": "Arjun Enterprises",
+      "monthly_gmv": 2677719.25
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0025",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0035",
+      "legal_name": "Priya Textiles",
+      "trade_name": "Priya Textiles",
+      "pan": "WGMPJ0812Z",
+      "gstin": "17WGMPJ0812Z1397",
+      "bank_account_name": "Priya Textiles",
+      "monthly_gmv": 1417529.45
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0026",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0051",
+      "legal_name": "Sneha Enterprises",
+      "trade_name": "Sneha Enterprises",
+      "pan": "LCQWL6907J",
+      "gstin": "23LCQWL6907J1415",
+      "bank_account_name": "Sneha Enterprises",
+      "monthly_gmv": 2851343.91
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0027",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0102",
+      "legal_name": "Vikram Traders",
+      "trade_name": "Vikram Traders",
+      "pan": "PGRZP2045X",
+      "gstin": "25PGRZP2045X1170",
+      "bank_account_name": "Vikram Traders",
+      "monthly_gmv": 4743615.6
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0028",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0037",
+      "legal_name": "Anita Solutions",
+      "trade_name": "Anita Solutions",
+      "pan": "SHGDF1571G",
+      "gstin": "31SHGDF1571G1368",
+      "bank_account_name": "Anita Solutions",
+      "monthly_gmv": 3004114.17
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0029",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0028",
+      "legal_name": "Priya Retail",
+      "trade_name": "Priya Retail",
+      "pan": "DJDFK3408M",
+      "gstin": "02DJDFK3408M1984",
+      "bank_account_name": "Priya Retail",
+      "monthly_gmv": 79185.61
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0030",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0139",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "LSIHV1866F",
+      "gstin": "16LSIHV1866F1563",
+      "bank_account_name": "Divya Enterprises",
+      "monthly_gmv": 2160528.45
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0031",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0158",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "JTWTD8345I",
+      "gstin": "37JTWTD8345I1655",
+      "bank_account_name": "Vikram Retail",
+      "monthly_gmv": 324423.6
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0032",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0199",
+      "legal_name": "Arjun Mart",
+      "trade_name": "Arjun Mart",
+      "pan": "VCSDC1112Q",
+      "gstin": "13VCSDC1112Q1341",
+      "bank_account_name": "Arjun Mart",
+      "monthly_gmv": 2763286.88
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "RESTRICTED_ENTITY_MATCH",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0033",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0142",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "IGDJD3554P",
+      "gstin": "35IGDJD3554P177Z",
+      "bank_account_name": "Priya Retail",
+      "monthly_gmv": 2796817.25
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0034",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0183",
+      "legal_name": "Divya Traders",
+      "trade_name": "Divya Traders",
+      "pan": "UQNKK1579D",
+      "gstin": "37UQNKK1579D1889",
+      "bank_account_name": "Divya Traders",
+      "monthly_gmv": 4406672.13
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "IDENTITY_CONFLICT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0035",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0077",
+      "legal_name": "Anita Retail",
+      "trade_name": "Anita Retail",
+      "pan": "RVTRN6433F",
+      "gstin": "14RVTRN6433F1382",
+      "bank_account_name": "Anita Retail",
+      "monthly_gmv": 4999884.27
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0036",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0009",
+      "legal_name": "Divya Enterprises",
+      "trade_name": "Divya Enterprises",
+      "pan": "ZNDRY1569R",
+      "gstin": "13ZNDRY1569R1747",
+      "bank_account_name": "Divya Enterprises",
+      "monthly_gmv": 1898431.49
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0037",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0032",
+      "legal_name": "Sneha Ventures",
+      "trade_name": "Sneha Ventures",
+      "pan": "STEPT1891A",
+      "gstin": "20STEPT1891A1694",
+      "bank_account_name": "Sneha Ventures",
+      "monthly_gmv": 4710279.46
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0038",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0095",
+      "legal_name": "Arjun Retail",
+      "trade_name": "Arjun Retail",
+      "pan": "EQXIY0809Y",
+      "gstin": "37EQXIY0809Y1226",
+      "bank_account_name": "Arjun Retail",
+      "monthly_gmv": 3109636.71
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0039",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0128",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "BBYXO0939S",
+      "gstin": "10BBYXO0939S1874",
+      "bank_account_name": "Divya Textiles",
+      "monthly_gmv": 430840.58
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0040",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0140",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "QERKT8440G",
+      "gstin": "14QERKT8440G1378",
+      "bank_account_name": "Sneha Mart",
+      "monthly_gmv": 2907872.13
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0041",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0056",
+      "legal_name": "Arjun Textiles",
+      "trade_name": "Arjun Textiles",
+      "pan": "XYZHW8407H",
+      "gstin": "26XYZHW8407H1Z84",
+      "bank_account_name": "Arjun Textiles",
+      "monthly_gmv": 3963875.74
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0042",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0149",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "VMIHO1878Y",
+      "gstin": "04VMIHO1878Y1069",
+      "bank_account_name": "Sneha Mart",
+      "monthly_gmv": 130592.69
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0043",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0126",
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies",
+      "pan": "XNGQG3709O",
+      "gstin": "37XNGQG3709O1273",
+      "bank_account_name": "Arjun Enterprises",
+      "monthly_gmv": 4148907.29
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0044",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0019",
+      "legal_name": "Ravi Solutions",
+      "trade_name": "Ravi Solutions",
+      "pan": "FGCUW4619F",
+      "gstin": "12FGCUW4619F1908",
+      "bank_account_name": "Ravi Solutions",
+      "monthly_gmv": 1694318.07
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0045",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0136",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "BZMKN9657L",
+      "gstin": "35BZMKN9657L16Z1",
+      "bank_account_name": "Karan Mart",
+      "monthly_gmv": 1278743.3
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0046",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0023",
+      "legal_name": "Priya Textiles",
+      "trade_name": "Priya Textiles",
+      "pan": "NRISO1637F",
+      "gstin": "37NRISO1637F1360",
+      "bank_account_name": "Priya Textiles",
+      "monthly_gmv": 1470222.9
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0047",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0132",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "AKUSO9256F",
+      "gstin": "09AKUSO9256F1221",
+      "bank_account_name": "Anita Mart",
+      "monthly_gmv": 877676.63
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0048",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0076",
+      "legal_name": "Karan Textiles",
+      "trade_name": "Karan Textiles",
+      "pan": "GWZPD0693U",
+      "gstin": "26GWZPD0693U1170",
+      "bank_account_name": "Karan Textiles",
+      "monthly_gmv": 2816664.25
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0049",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0015",
+      "legal_name": "Priya Mart",
+      "trade_name": "Priya Mart",
+      "pan": "ROIGR3216O",
+      "gstin": "21ROIGR3216O1ZZ0",
+      "bank_account_name": "Priya Mart",
+      "monthly_gmv": 3124738.31
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0050",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0194",
+      "legal_name": "Arjun Foods",
+      "trade_name": "Arjun Foods",
+      "pan": "IZXZD8103F",
+      "gstin": "21IZXZD8103F1603",
+      "bank_account_name": "Arjun Foods",
+      "monthly_gmv": 3817906.74
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "RESTRICTED_ENTITY_MATCH",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0051",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0157",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "SSWBC4463X",
+      "gstin": "12SSWBC4463X1177",
+      "bank_account_name": "Priya Textiles",
+      "monthly_gmv": 860971.52
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0052",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0141",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "ILGWN6565L",
+      "gstin": "23ILGWN6565L1968",
+      "bank_account_name": "Arjun Solutions",
+      "monthly_gmv": 3544642.39
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0053",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0150",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "AYFRD6192U",
+      "gstin": "24AYFRD6192U1249",
+      "bank_account_name": "Divya Ventures",
+      "monthly_gmv": 869349.14
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0054",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0073",
+      "legal_name": "Anita Retail",
+      "trade_name": "Anita Retail",
+      "pan": "LMQUP3040L",
+      "gstin": "19LMQUP3040L1099",
+      "bank_account_name": "Anita Retail",
+      "monthly_gmv": 3094291.52
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0055",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0193",
+      "legal_name": "Anita Solutions",
+      "trade_name": "Anita Solutions",
+      "pan": "GHWMW5908Q",
+      "gstin": "08GHWMW5908Q1943",
+      "bank_account_name": "Anita Solutions",
+      "monthly_gmv": 317606.75
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "RESTRICTED_ENTITY_MATCH",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0056",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0176",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "KTZWM3514S",
+      "gstin": "15KTZWM3514S1109",
+      "bank_account_name": "Ravi Traders",
+      "monthly_gmv": 1509797.63
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0057",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0181",
+      "legal_name": "Karan Ventures",
+      "trade_name": "Karan Ventures",
+      "pan": "OGHKW0555T",
+      "gstin": "10OGHKW0555T1181",
+      "bank_account_name": "Karan Ventures",
+      "monthly_gmv": 4922621.55
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "RESTRICTED_ENTITY_MATCH",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0058",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0046",
+      "legal_name": "Sneha Retail",
+      "trade_name": "Sneha Retail",
+      "pan": "IAKFV1961W",
+      "gstin": "19IAKFV1961W1539",
+      "bank_account_name": "Sneha Retail",
+      "monthly_gmv": 4902210.93
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0059",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0175",
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies",
+      "pan": "DTGZE8076K",
+      "gstin": "29DTGZE8076K1027",
+      "bank_account_name": "Priya Ventures",
+      "monthly_gmv": 1784881.75
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0060",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0151",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "LCCFC5540K",
+      "gstin": "08LCCFC5540K1Z41",
+      "bank_account_name": "Vikram Foods",
+      "monthly_gmv": 400600.11
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0061",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0040",
+      "legal_name": "Sneha Mart",
+      "trade_name": "Sneha Mart",
+      "pan": "LLWZH6679G",
+      "gstin": "14LLWZH6679G1202",
+      "bank_account_name": "Sneha Mart",
+      "monthly_gmv": 2782361.62
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0062",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0050",
+      "legal_name": "Arjun Enterprises",
+      "trade_name": "Arjun Enterprises",
+      "pan": "MZISQ8883K",
+      "gstin": "32MZISQ8883K1900",
+      "bank_account_name": "Arjun Enterprises",
+      "monthly_gmv": 3174247.03
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0063",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0104",
+      "legal_name": "Anita Retail",
+      "trade_name": "Anita Retail",
+      "pan": "LNORW6824H",
+      "gstin": "18LNORW6824H162Z",
+      "bank_account_name": "Anita Retail",
+      "monthly_gmv": 1523192.1
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0064",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0105",
+      "legal_name": "Sneha Ventures",
+      "trade_name": "Sneha Ventures",
+      "pan": "IJYUH1639L",
+      "gstin": "10IJYUH1639L1337",
+      "bank_account_name": "Sneha Ventures",
+      "monthly_gmv": 1764499.39
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0065",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0168",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "AREFE2806H",
+      "gstin": "19AREFE2806H1595",
+      "bank_account_name": "Karan Ventures",
+      "monthly_gmv": 484221.68
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0066",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0101",
+      "legal_name": "Arjun Solutions",
+      "trade_name": "Arjun Solutions",
+      "pan": "YIKQV5554S",
+      "gstin": "20YIKQV5554S1503",
+      "bank_account_name": "Arjun Solutions",
+      "monthly_gmv": 592542.72
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0067",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0184",
+      "legal_name": "Vikram Mart",
+      "trade_name": "Vikram Mart",
+      "pan": "ROMEK6643K",
+      "gstin": "16ROMEK6643K1052",
+      "bank_account_name": "Vikram Mart",
+      "monthly_gmv": 1893581.44
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "PROHIBITED_CATEGORY",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0068",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0153",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "QLFXD1734Z",
+      "gstin": "09QLFXD1734Z1272",
+      "bank_account_name": "Arjun Mart",
+      "monthly_gmv": 3024945.36
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0069",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0182",
+      "legal_name": "Sneha Retail",
+      "trade_name": "Sneha Retail",
+      "pan": "BCRFV1537Z",
+      "gstin": "05BCRFV1537Z1066",
+      "bank_account_name": "Sneha Retail",
+      "monthly_gmv": 4290289.69
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "COMPLIANCE_SCREENING_HIT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0070",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0094",
+      "legal_name": "Ravi Enterprises",
+      "trade_name": "Ravi Enterprises",
+      "pan": "NHEYF9520G",
+      "gstin": "36NHEYF9520G1366",
+      "bank_account_name": "Ravi Enterprises",
+      "monthly_gmv": 512470.61
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0071",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0159",
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies",
+      "pan": "EUXRC7080B",
+      "gstin": "31EUXRC7080B14Z1",
+      "bank_account_name": "Arjun Solutions",
+      "monthly_gmv": 4803693.62
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0072",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0078",
+      "legal_name": "Priya Textiles",
+      "trade_name": "Priya Textiles",
+      "pan": "VCUVW0371M",
+      "gstin": "10VCUVW0371M1198",
+      "bank_account_name": "Priya Textiles",
+      "monthly_gmv": 4054766.41
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0073",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0066",
+      "legal_name": "Arjun Ventures",
+      "trade_name": "Arjun Ventures",
+      "pan": "FCVJT5889T",
+      "gstin": "36FCVJT5889T10Z9",
+      "bank_account_name": "Arjun Ventures",
+      "monthly_gmv": 1373866.24
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0074",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0039",
+      "legal_name": "Arjun Traders",
+      "trade_name": "Arjun Traders",
+      "pan": "GWCBM5618J",
+      "gstin": "06GWCBM5618J1Z18",
+      "bank_account_name": "Arjun Traders",
+      "monthly_gmv": 3051272.37
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0075",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0090",
+      "legal_name": "Anita Solutions",
+      "trade_name": "Anita Solutions",
+      "pan": "LBDJI2901Q",
+      "gstin": "25LBDJI2901Q1Z18",
+      "bank_account_name": "Anita Solutions",
+      "monthly_gmv": 3534987.17
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0076",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0001",
+      "legal_name": "Priya Traders",
+      "trade_name": "Priya Traders",
+      "pan": "TGDCT5500H",
+      "gstin": "33TGDCT5500H1667",
+      "bank_account_name": "Priya Traders",
+      "monthly_gmv": 3521558.62
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0077",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0100",
+      "legal_name": "Priya Retail",
+      "trade_name": "Priya Retail",
+      "pan": "ZKUIY7155B",
+      "gstin": "03ZKUIY7155B1135",
+      "bank_account_name": "Priya Retail",
+      "monthly_gmv": 2312093.37
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0078",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0130",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "AHZMJ9466C",
+      "gstin": "19AHZMJ9466C1870",
+      "bank_account_name": "Karan Solutions",
+      "monthly_gmv": 813393.77
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0079",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0005",
+      "legal_name": "Ravi Foods",
+      "trade_name": "Ravi Foods",
+      "pan": "VUKBX5724U",
+      "gstin": "30VUKBX5724U1118",
+      "bank_account_name": "Ravi Foods",
+      "monthly_gmv": 2717937.58
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0080",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0053",
+      "legal_name": "Divya Solutions",
+      "trade_name": "Divya Solutions",
+      "pan": "ZHZRL3981M",
+      "gstin": "37ZHZRL3981M1337",
+      "bank_account_name": "Divya Solutions",
+      "monthly_gmv": 158601.01
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0081",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0116",
+      "legal_name": "Ravi Traders",
+      "trade_name": "Ravi Traders",
+      "pan": "ZMSLJ2411X",
+      "gstin": "08ZMSLJ2411X1076",
+      "bank_account_name": "Ravi Traders",
+      "monthly_gmv": 4684377.76
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0082",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0014",
+      "legal_name": "Ravi Solutions",
+      "trade_name": "Ravi Solutions",
+      "pan": "BPNWE9015V",
+      "gstin": "16BPNWE9015V14Z6",
+      "bank_account_name": "Ravi Solutions",
+      "monthly_gmv": 2915649.33
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0083",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0186",
+      "legal_name": "Divya Solutions",
+      "trade_name": "Divya Solutions",
+      "pan": "VNEIN1880G",
+      "gstin": "13VNEIN1880G1925",
+      "bank_account_name": "Divya Solutions",
+      "monthly_gmv": 4594253.79
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "RESTRICTED_ENTITY_MATCH",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0084",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0084",
+      "legal_name": "Anita Foods",
+      "trade_name": "Anita Foods",
+      "pan": "OERNJ9575A",
+      "gstin": "25OERNJ9575A1904",
+      "bank_account_name": "Anita Foods",
+      "monthly_gmv": 1897846.82
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0085",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0129",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "ROJTU6073D",
+      "gstin": "28ROJTU6073D1206",
+      "bank_account_name": "Sneha Mart",
+      "monthly_gmv": 3088632.91
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0086",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0161",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "CLJHU7239Y",
+      "gstin": "13CLJHU7239Y1868",
+      "bank_account_name": "Vikram Solutions",
+      "monthly_gmv": 795303.57
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0087",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0178",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "FESSS2220S",
+      "gstin": "36FESSS2220S1913",
+      "bank_account_name": "Priya Solutions",
+      "monthly_gmv": 2166649.49
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0088",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0091",
+      "legal_name": "Vikram Ventures",
+      "trade_name": "Vikram Ventures",
+      "pan": "FDBES9899V",
+      "gstin": "23FDBES9899V1763",
+      "bank_account_name": "Vikram Ventures",
+      "monthly_gmv": 1534785.56
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0089",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0144",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "UFAFH7574Q",
+      "gstin": "08UFAFH7574Q1625",
+      "bank_account_name": "Priya Traders",
+      "monthly_gmv": 4954923.42
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0090",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0143",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "EVQWY4135U",
+      "gstin": "32EVQWY4135U1457",
+      "bank_account_name": "Vikram Retail",
+      "monthly_gmv": 2247066.13
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0091",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0137",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "QBZRK7940I",
+      "gstin": "15QBZRK7940I1556",
+      "bank_account_name": "Anita Retail",
+      "monthly_gmv": 2897415.22
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0092",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0074",
+      "legal_name": "Karan Ventures",
+      "trade_name": "Karan Ventures",
+      "pan": "PYTBX5165B",
+      "gstin": "29PYTBX5165B1193",
+      "bank_account_name": "Karan Ventures",
+      "monthly_gmv": 3585861.97
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0093",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0057",
+      "legal_name": "Vikram Enterprises",
+      "trade_name": "Vikram Enterprises",
+      "pan": "LRRPV9120R",
+      "gstin": "21LRRPV9120R1Z20",
+      "bank_account_name": "Vikram Enterprises",
+      "monthly_gmv": 4128083.99
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0094",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0059",
+      "legal_name": "Divya Mart",
+      "trade_name": "Divya Mart",
+      "pan": "YHRFL2393U",
+      "gstin": "23YHRFL2393U103Z",
+      "bank_account_name": "Divya Mart",
+      "monthly_gmv": 4747603.4
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0095",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0196",
+      "legal_name": "Ravi Foods",
+      "trade_name": "Ravi Foods",
+      "pan": "FWICN3009O",
+      "gstin": "34FWICN3009O1639",
+      "bank_account_name": "Ravi Foods",
+      "monthly_gmv": 4977588.43
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "PROHIBITED_CATEGORY",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0096",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0147",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "ZUXZW1827H",
+      "gstin": "26ZUXZW1827H1562",
+      "bank_account_name": "Priya Retail",
+      "monthly_gmv": 2100414.19
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0097",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0052",
+      "legal_name": "Arjun Retail",
+      "trade_name": "Arjun Retail",
+      "pan": "EPJRM5264V",
+      "gstin": "01EPJRM5264V1953",
+      "bank_account_name": "Arjun Retail",
+      "monthly_gmv": 2755660.78
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0098",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0049",
+      "legal_name": "Karan Mart",
+      "trade_name": "Karan Mart",
+      "pan": "ZUQDZ1931O",
+      "gstin": "07ZUQDZ1931O1557",
+      "bank_account_name": "Karan Mart",
+      "monthly_gmv": 2079394.17
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0099",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0200",
+      "legal_name": "Divya Solutions",
+      "trade_name": "Divya Solutions",
+      "pan": "GACCO4970X",
+      "gstin": "07GACCO4970X1975",
+      "bank_account_name": "Divya Solutions",
+      "monthly_gmv": 4887590.22
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "PROHIBITED_CATEGORY",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0100",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0071",
+      "legal_name": "Anita Enterprises",
+      "trade_name": "Anita Enterprises",
+      "pan": "LCLKC8727C",
+      "gstin": "33LCLKC8727C1652",
+      "bank_account_name": "Anita Enterprises",
+      "monthly_gmv": 3892329.74
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0101",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0155",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "DWOJR7970C",
+      "gstin": "01DWOJR7970C1200",
+      "bank_account_name": "Anita Solutions",
+      "monthly_gmv": 3956985.5
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0102",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0169",
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies",
+      "pan": "FXNQU7973R",
+      "gstin": "32FXNQU7973R1363",
+      "bank_account_name": "Arjun Mart",
+      "monthly_gmv": 1388656.64
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0103",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0121",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "YAYZD9426G",
+      "gstin": "26YAYZD9426G1Z68",
+      "bank_account_name": "Anita Textiles",
+      "monthly_gmv": 1934275.63
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0104",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0185",
+      "legal_name": "Vikram Textiles",
+      "trade_name": "Vikram Textiles",
+      "pan": "HMSCW1948I",
+      "gstin": "27HMSCW1948I1604",
+      "bank_account_name": "Vikram Textiles",
+      "monthly_gmv": 4571492.39
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "IDENTITY_CONFLICT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0105",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0164",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "WYKVI4291Y",
+      "gstin": "07WYKVI4291Y1115",
+      "bank_account_name": "Vikram Textiles",
+      "monthly_gmv": 2062237.13
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0106",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0031",
+      "legal_name": "Vikram Enterprises",
+      "trade_name": "Vikram Enterprises",
+      "pan": "MTBYF0900H",
+      "gstin": "13MTBYF0900H1962",
+      "bank_account_name": "Vikram Enterprises",
+      "monthly_gmv": 2394127.25
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0107",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0042",
+      "legal_name": "Arjun Enterprises",
+      "trade_name": "Arjun Enterprises",
+      "pan": "BUPVX4434I",
+      "gstin": "33BUPVX4434I1546",
+      "bank_account_name": "Arjun Enterprises",
+      "monthly_gmv": 4452643.3
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0108",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0063",
+      "legal_name": "Priya Ventures",
+      "trade_name": "Priya Ventures",
+      "pan": "SLXID1657M",
+      "gstin": "34SLXID1657M1354",
+      "bank_account_name": "Priya Ventures",
+      "monthly_gmv": 3975825.66
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0109",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0097",
+      "legal_name": "Anita Mart",
+      "trade_name": "Anita Mart",
+      "pan": "DJOIM2202M",
+      "gstin": "27DJOIM2202M1291",
+      "bank_account_name": "Anita Mart",
+      "monthly_gmv": 1670807.31
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0110",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0010",
+      "legal_name": "Divya Enterprises",
+      "trade_name": "Divya Enterprises",
+      "pan": "GBAOP0700B",
+      "gstin": "22GBAOP0700B1027",
+      "bank_account_name": "Divya Enterprises",
+      "monthly_gmv": 1110472.2
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0111",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0022",
+      "legal_name": "Priya Mart",
+      "trade_name": "Priya Mart",
+      "pan": "XEBLN8697G",
+      "gstin": "24XEBLN8697G14ZZ",
+      "bank_account_name": "Priya Mart",
+      "monthly_gmv": 3134619.28
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0112",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0112",
+      "legal_name": "Anita Mart",
+      "trade_name": "Anita Mart",
+      "pan": "SXTUV7657Q",
+      "gstin": "29SXTUV7657Q153Z",
+      "bank_account_name": "Anita Mart",
+      "monthly_gmv": 605433.52
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0113",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0131",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "ICAIJ2114R",
+      "gstin": "33ICAIJ2114R1403",
+      "bank_account_name": "Arjun Mart",
+      "monthly_gmv": 510668.09
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0114",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0191",
+      "legal_name": "Karan Solutions",
+      "trade_name": "Karan Solutions",
+      "pan": "RSRZG4307S",
+      "gstin": "13RSRZG4307S1377",
+      "bank_account_name": "Karan Solutions",
+      "monthly_gmv": 3209652.27
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "IDENTITY_CONFLICT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0115",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0061",
+      "legal_name": "Ravi Textiles",
+      "trade_name": "Ravi Textiles",
+      "pan": "WDDGE6007H",
+      "gstin": "21WDDGE6007H1021",
+      "bank_account_name": "Ravi Textiles",
+      "monthly_gmv": 2133754.76
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0116",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0109",
+      "legal_name": "Divya Ventures",
+      "trade_name": "Divya Ventures",
+      "pan": "XDNHV3767A",
+      "gstin": "22XDNHV3767A1868",
+      "bank_account_name": "Divya Ventures",
+      "monthly_gmv": 918699.82
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0117",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0065",
+      "legal_name": "Anita Retail",
+      "trade_name": "Anita Retail",
+      "pan": "OPOID3678X",
+      "gstin": "04OPOID3678X1Z63",
+      "bank_account_name": "Anita Retail",
+      "monthly_gmv": 2910696.67
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0118",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0021",
+      "legal_name": "Vikram Solutions",
+      "trade_name": "Vikram Solutions",
+      "pan": "QKZNY1919I",
+      "gstin": "03QKZNY1919I1148",
+      "bank_account_name": "Vikram Solutions",
+      "monthly_gmv": 1602702.71
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0119",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0083",
+      "legal_name": "Karan Enterprises",
+      "trade_name": "Karan Enterprises",
+      "pan": "UGDGQ6084R",
+      "gstin": "02UGDGQ6084R1667",
+      "bank_account_name": "Karan Enterprises",
+      "monthly_gmv": 1491796.34
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0120",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0002",
+      "legal_name": "Sneha Ventures",
+      "trade_name": "Sneha Ventures",
+      "pan": "PVAUS3193C",
+      "gstin": "25PVAUS3193C1196",
+      "bank_account_name": "Sneha Ventures",
+      "monthly_gmv": 4045284.95
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0121",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0007",
+      "legal_name": "Ravi Enterprises",
+      "trade_name": "Ravi Enterprises",
+      "pan": "RNGQC4498I",
+      "gstin": "33RNGQC4498I1851",
+      "bank_account_name": "Ravi Enterprises",
+      "monthly_gmv": 3145235.96
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0122",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0079",
+      "legal_name": "Divya Traders",
+      "trade_name": "Divya Traders",
+      "pan": "KRGLH7453Z",
+      "gstin": "31KRGLH7453Z1927",
+      "bank_account_name": "Divya Traders",
+      "monthly_gmv": 2873576.0
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0123",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0115",
+      "legal_name": "Karan Solutions",
+      "trade_name": "Karan Solutions",
+      "pan": "ZJWXJ6656L",
+      "gstin": "08ZJWXJ6656L1155",
+      "bank_account_name": "Karan Solutions",
+      "monthly_gmv": 3652897.8
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0124",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0072",
+      "legal_name": "Arjun Foods",
+      "trade_name": "Arjun Foods",
+      "pan": "CGEDT0964S",
+      "gstin": "29CGEDT0964S1797",
+      "bank_account_name": "Arjun Foods",
+      "monthly_gmv": 4933333.14
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0125",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0145",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "OZCVT2943C",
+      "gstin": "29OZCVT2943C1918",
+      "bank_account_name": "Ravi Ventures",
+      "monthly_gmv": 1088896.93
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0126",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0165",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "LMWCU3762K",
+      "gstin": "10LMWCU3762K1123",
+      "bank_account_name": "Anita Foods",
+      "monthly_gmv": 2591625.39
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0127",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0020",
+      "legal_name": "Sneha Textiles",
+      "trade_name": "Sneha Textiles",
+      "pan": "ESJBM1938H",
+      "gstin": "15ESJBM1938H1023",
+      "bank_account_name": "Sneha Textiles",
+      "monthly_gmv": 4328547.06
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0128",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0167",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "PGVAB9419Z",
+      "gstin": "22PGVAB9419Z11Z0",
+      "bank_account_name": "Anita Enterprises",
+      "monthly_gmv": 4624452.04
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0129",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0089",
+      "legal_name": "Karan Solutions",
+      "trade_name": "Karan Solutions",
+      "pan": "NTEAW6412U",
+      "gstin": "24NTEAW6412U13Z0",
+      "bank_account_name": "Karan Solutions",
+      "monthly_gmv": 809518.91
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0130",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0148",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "KTSWL4588C",
+      "gstin": "30KTSWL4588C1679",
+      "bank_account_name": "Priya Enterprises",
+      "monthly_gmv": 3988605.74
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0131",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0064",
+      "legal_name": "Sneha Mart",
+      "trade_name": "Sneha Mart",
+      "pan": "LFILK0463E",
+      "gstin": "31LFILK0463E1091",
+      "bank_account_name": "Sneha Mart",
+      "monthly_gmv": 527993.94
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0132",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0111",
+      "legal_name": "Anita Foods",
+      "trade_name": "Anita Foods",
+      "pan": "BDHKN8731J",
+      "gstin": "24BDHKN8731J1621",
+      "bank_account_name": "Anita Foods",
+      "monthly_gmv": 808268.55
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0133",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0188",
+      "legal_name": "Vikram Traders",
+      "trade_name": "Vikram Traders",
+      "pan": "KEOZW6624A",
+      "gstin": "01KEOZW6624A1511",
+      "bank_account_name": "Vikram Traders",
+      "monthly_gmv": 4014280.8
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "RESTRICTED_ENTITY_MATCH",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0134",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0134",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "IYFIZ9264S",
+      "gstin": "16IYFIZ9264S1338",
+      "bank_account_name": "Arjun Textiles",
+      "monthly_gmv": 1856826.91
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0135",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0133",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "MBGGQ5113M",
+      "gstin": "22MBGGQ5113M1949",
+      "bank_account_name": "Karan Textiles",
+      "monthly_gmv": 2229103.46
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0136",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0087",
+      "legal_name": "Ravi Solutions",
+      "trade_name": "Ravi Solutions",
+      "pan": "HULKL9316L",
+      "gstin": "34HULKL9316L1204",
+      "bank_account_name": "Ravi Solutions",
+      "monthly_gmv": 2181505.4
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0137",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0058",
+      "legal_name": "Vikram Mart",
+      "trade_name": "Vikram Mart",
+      "pan": "DBAZD2533X",
+      "gstin": "35DBAZD2533X1481",
+      "bank_account_name": "Vikram Mart",
+      "monthly_gmv": 2103678.41
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0138",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0135",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "ROYMS4268Z",
+      "gstin": "27ROYMS4268Z1713",
+      "bank_account_name": "Sneha Retail",
+      "monthly_gmv": 1300774.34
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0139",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0004",
+      "legal_name": "Anita Retail",
+      "trade_name": "Anita Retail",
+      "pan": "JFGYQ6171M",
+      "gstin": "18JFGYQ6171M1Z76",
+      "bank_account_name": "Anita Retail",
+      "monthly_gmv": 3438840.54
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0140",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0192",
+      "legal_name": "Anita Textiles",
+      "trade_name": "Anita Textiles",
+      "pan": "VVWEC1287F",
+      "gstin": "22VVWEC1287F1722",
+      "bank_account_name": "Anita Textiles",
+      "monthly_gmv": 4363589.55
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "IDENTITY_CONFLICT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0141",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0067",
+      "legal_name": "Vikram Textiles",
+      "trade_name": "Vikram Textiles",
+      "pan": "XJEDR0790Q",
+      "gstin": "14XJEDR0790Q1441",
+      "bank_account_name": "Vikram Textiles",
+      "monthly_gmv": 1592604.98
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0142",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0017",
+      "legal_name": "Vikram Enterprises",
+      "trade_name": "Vikram Enterprises",
+      "pan": "XTEHF3685I",
+      "gstin": "04XTEHF3685I1143",
+      "bank_account_name": "Vikram Enterprises",
+      "monthly_gmv": 67551.16
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0143",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0187",
+      "legal_name": "Vikram Solutions",
+      "trade_name": "Vikram Solutions",
+      "pan": "VNQDA3518S",
+      "gstin": "36VNQDA3518S1319",
+      "bank_account_name": "Vikram Solutions",
+      "monthly_gmv": 3757357.62
+    },
+    "document_issues": [],
+    "gstin_active": false,
+    "restricted_flag": false,
+    "hard_issue": "INACTIVE_GSTIN",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0144",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0154",
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies",
+      "pan": "WRHNN7208H",
+      "gstin": "32WRHNN7208H1427",
+      "bank_account_name": "Vikram Traders",
+      "monthly_gmv": 401509.41
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "S.K. Tech",
+      "trade_name": "Satish Kumar Technologies"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0145",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0106",
+      "legal_name": "Vikram Ventures",
+      "trade_name": "Vikram Ventures",
+      "pan": "FVHOH1720Q",
+      "gstin": "15FVHOH1720Q1704",
+      "bank_account_name": "Vikram Ventures",
+      "monthly_gmv": 3600922.38
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0146",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0163",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "BGVKX4755U",
+      "gstin": "26BGVKX4755U1064",
+      "bank_account_name": "Vikram Enterprises",
+      "monthly_gmv": 4822880.46
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0147",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0125",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "BQYXR0540X",
+      "gstin": "18BQYXR0540X1535",
+      "bank_account_name": "Divya Solutions",
+      "monthly_gmv": 3504402.43
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0148",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0156",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "LKQND0099E",
+      "gstin": "35LKQND0099E1368",
+      "bank_account_name": "Vikram Mart",
+      "monthly_gmv": 3266705.69
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0149",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0162",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "OQSAI7373G",
+      "gstin": "34OQSAI7373G1Z4Z",
+      "bank_account_name": "Ravi Foods",
+      "monthly_gmv": 4864168.22
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0150",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0008",
+      "legal_name": "Sneha Retail",
+      "trade_name": "Sneha Retail",
+      "pan": "JEYXX5413Z",
+      "gstin": "20JEYXX5413Z1226",
+      "bank_account_name": "Sneha Retail",
+      "monthly_gmv": 439847.39
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0151",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0180",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "GMFGB7603R",
+      "gstin": "27GMFGB7603R1Z66",
+      "bank_account_name": "Divya Traders",
+      "monthly_gmv": 4211945.97
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0152",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0098",
+      "legal_name": "Anita Foods",
+      "trade_name": "Anita Foods",
+      "pan": "TMNMI0959G",
+      "gstin": "23TMNMI0959G1036",
+      "bank_account_name": "Anita Foods",
+      "monthly_gmv": 4222105.75
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0153",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0173",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "WWYJY3131F",
+      "gstin": "28WWYJY3131F18Z7",
+      "bank_account_name": "Arjun Enterprises",
+      "monthly_gmv": 912303.22
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0154",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0179",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "CFQZM1748I",
+      "gstin": "06CFQZM1748I1744",
+      "bank_account_name": "Divya Foods",
+      "monthly_gmv": 1938153.68
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0155",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0146",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "EDFFB3253W",
+      "gstin": "19EDFFB3253W1329",
+      "bank_account_name": "Anita Mart",
+      "monthly_gmv": 4928167.1
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0156",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0124",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "XOQBA8967N",
+      "gstin": "09XOQBA8967N1927",
+      "bank_account_name": "Divya Retail",
+      "monthly_gmv": 95250.24
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0157",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0152",
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages",
+      "pan": "CJHJV8660S",
+      "gstin": "01CJHJV8660S1613",
+      "bank_account_name": "Priya Enterprises",
+      "monthly_gmv": 1104624.48
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "R.K. Foods",
+      "trade_name": "R K Foods and Beverages"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0158",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0107",
+      "legal_name": "Arjun Traders",
+      "trade_name": "Arjun Traders",
+      "pan": "ZZEQW4672J",
+      "gstin": "04ZZEQW4672J1906",
+      "bank_account_name": "Arjun Traders",
+      "monthly_gmv": 2699003.77
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0159",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0027",
+      "legal_name": "Karan Ventures",
+      "trade_name": "Karan Ventures",
+      "pan": "XTMGG6756I",
+      "gstin": "29XTMGG6756I1032",
+      "bank_account_name": "Karan Ventures",
+      "monthly_gmv": 1632562.36
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0160",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0041",
+      "legal_name": "Ravi Mart",
+      "trade_name": "Ravi Mart",
+      "pan": "LPHGS7469Z",
+      "gstin": "13LPHGS7469Z1457",
+      "bank_account_name": "Ravi Mart",
+      "monthly_gmv": 4546636.65
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0161",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0016",
+      "legal_name": "Priya Enterprises",
+      "trade_name": "Priya Enterprises",
+      "pan": "NNDJB2245J",
+      "gstin": "34NNDJB2245J1083",
+      "bank_account_name": "Priya Enterprises",
+      "monthly_gmv": 3333774.14
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0162",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0034",
+      "legal_name": "Karan Solutions",
+      "trade_name": "Karan Solutions",
+      "pan": "QVSLT9285P",
+      "gstin": "30QVSLT9285P1482",
+      "bank_account_name": "Karan Solutions",
+      "monthly_gmv": 4265980.14
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0163",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0029",
+      "legal_name": "Vikram Mart",
+      "trade_name": "Vikram Mart",
+      "pan": "WYKTO6224A",
+      "gstin": "25WYKTO6224A1374",
+      "bank_account_name": "Vikram Mart",
+      "monthly_gmv": 866971.42
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0164",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0043",
+      "legal_name": "Anita Textiles",
+      "trade_name": "Anita Textiles",
+      "pan": "AFRWP0785Y",
+      "gstin": "12AFRWP0785Y157Z",
+      "bank_account_name": "Anita Textiles",
+      "monthly_gmv": 948371.28
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0165",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0108",
+      "legal_name": "Ravi Retail",
+      "trade_name": "Ravi Retail",
+      "pan": "KVYAV7178J",
+      "gstin": "03KVYAV7178J1061",
+      "bank_account_name": "Ravi Retail",
+      "monthly_gmv": 4915819.75
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0166",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0123",
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd",
+      "pan": "DIJVM6628X",
+      "gstin": "32DIJVM6628X1583",
+      "bank_account_name": "Karan Textiles",
+      "monthly_gmv": 742794.72
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Blue Ocean",
+      "trade_name": "Blue Ocean Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0167",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0099",
+      "legal_name": "Divya Textiles",
+      "trade_name": "Divya Textiles",
+      "pan": "NWLWS7345G",
+      "gstin": "24NWLWS7345G1605",
+      "bank_account_name": "Divya Textiles",
+      "monthly_gmv": 3833800.37
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0168",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0070",
+      "legal_name": "Anita Enterprises",
+      "trade_name": "Anita Enterprises",
+      "pan": "KTLLC3446J",
+      "gstin": "08KTLLC3446J14Z1",
+      "bank_account_name": "Anita Enterprises",
+      "monthly_gmv": 4740690.83
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0169",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0117",
+      "legal_name": "Sneha Foods",
+      "trade_name": "Sneha Foods",
+      "pan": "BPLRW2045Y",
+      "gstin": "04BPLRW2045Y11Z2",
+      "bank_account_name": "Sneha Foods",
+      "monthly_gmv": 4586165.31
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "WRONG_FORMAT",
+        "detail": "Uploaded as .heic, needs PDF/JPG"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0170",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0171",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "YZEGI7357L",
+      "gstin": "37YZEGI7357L1662",
+      "bank_account_name": "Karan Solutions",
+      "monthly_gmv": 4940630.74
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0171",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0103",
+      "legal_name": "Sneha Traders",
+      "trade_name": "Sneha Traders",
+      "pan": "LKKFN6487W",
+      "gstin": "09LKKFN6487W156Z",
+      "bank_account_name": "Sneha Traders",
+      "monthly_gmv": 2417936.37
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0172",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0189",
+      "legal_name": "Vikram Textiles",
+      "trade_name": "Vikram Textiles",
+      "pan": "SSHXW4235T",
+      "gstin": "26SSHXW4235T160Z",
+      "bank_account_name": "Vikram Textiles",
+      "monthly_gmv": 4834103.0
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "hard_issue": "PROHIBITED_CATEGORY",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0173",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0047",
+      "legal_name": "Divya Retail",
+      "trade_name": "Divya Retail",
+      "pan": "JXNWW2749Q",
+      "gstin": "18JXNWW2749Q1933",
+      "bank_account_name": "Divya Retail",
+      "monthly_gmv": 2955341.73
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0174",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0088",
+      "legal_name": "Arjun Textiles",
+      "trade_name": "Arjun Textiles",
+      "pan": "ICRHP4630L",
+      "gstin": "28ICRHP4630L13ZZ",
+      "bank_account_name": "Arjun Textiles",
+      "monthly_gmv": 421453.77
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0175",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0096",
+      "legal_name": "Divya Textiles",
+      "trade_name": "Divya Textiles",
+      "pan": "QHGUK4614O",
+      "gstin": "14QHGUK4614O1319",
+      "bank_account_name": "Divya Textiles",
+      "monthly_gmv": 1630616.14
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0176",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0024",
+      "legal_name": "Anita Ventures",
+      "trade_name": "Anita Ventures",
+      "pan": "LRNUY7626T",
+      "gstin": "22LRNUY7626T11Z2",
+      "bank_account_name": "Anita Ventures",
+      "monthly_gmv": 1586576.35
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0177",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0069",
+      "legal_name": "Vikram Traders",
+      "trade_name": "Vikram Traders",
+      "pan": "FZBFY7721P",
+      "gstin": "28FZBFY7721P1147",
+      "bank_account_name": "Vikram Traders",
+      "monthly_gmv": 2526298.62
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0178",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0160",
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co",
+      "pan": "IKSHC3591Z",
+      "gstin": "34IKSHC3591Z1ZZ0",
+      "bank_account_name": "Karan Foods",
+      "monthly_gmv": 2352216.18
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Sharma Traders",
+      "trade_name": "Sharma Trading Co"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0179",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0113",
+      "legal_name": "Sneha Retail",
+      "trade_name": "Sneha Retail",
+      "pan": "EWLRS4840E",
+      "gstin": "33EWLRS4840E1466",
+      "bank_account_name": "Sneha Retail",
+      "monthly_gmv": 3380200.18
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0180",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0092",
+      "legal_name": "Arjun Solutions",
+      "trade_name": "Arjun Solutions",
+      "pan": "NDFDU0538R",
+      "gstin": "09NDFDU0538R1603",
+      "bank_account_name": "Arjun Solutions",
+      "monthly_gmv": 4997995.47
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0181",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0085",
+      "legal_name": "Ravi Solutions",
+      "trade_name": "Ravi Solutions",
+      "pan": "UITQU7305U",
+      "gstin": "12UITQU7305U197Z",
+      "bank_account_name": "Ravi Solutions",
+      "monthly_gmv": 2418729.3
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0182",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0044",
+      "legal_name": "Karan Ventures",
+      "trade_name": "Karan Ventures",
+      "pan": "ZMKIC1446M",
+      "gstin": "36ZMKIC1446M1002",
+      "bank_account_name": "Karan Ventures",
+      "monthly_gmv": 623811.93
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0183",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0166",
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions",
+      "pan": "VEYWO5017D",
+      "gstin": "01VEYWO5017D1082",
+      "bank_account_name": "Vikram Textiles",
+      "monthly_gmv": 1030758.52
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "Nova Retail",
+      "trade_name": "Nova Retail Solutions"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0184",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0170",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "AVHVM3521H",
+      "gstin": "16AVHVM3521H128Z",
+      "bank_account_name": "Anita Foods",
+      "monthly_gmv": 326747.85
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0185",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0036",
+      "legal_name": "Sneha Enterprises",
+      "trade_name": "Sneha Enterprises",
+      "pan": "GKOGM7402M",
+      "gstin": "16GKOGM7402M1365",
+      "bank_account_name": "Sneha Enterprises",
+      "monthly_gmv": 2678063.56
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0186",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0003",
+      "legal_name": "Divya Enterprises",
+      "trade_name": "Divya Enterprises",
+      "pan": "ZJOVQ8570H",
+      "gstin": "19ZJOVQ8570H1Z99",
+      "bank_account_name": "Divya Enterprises",
+      "monthly_gmv": 1931624.81
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0187",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0012",
+      "legal_name": "Sneha Ventures",
+      "trade_name": "Sneha Ventures",
+      "pan": "DEMWB8806R",
+      "gstin": "01DEMWB8806R1ZZ9",
+      "bank_account_name": "Sneha Ventures",
+      "monthly_gmv": 873240.0
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0188",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0025",
+      "legal_name": "Sneha Retail",
+      "trade_name": "Sneha Retail",
+      "pan": "AGMWB4616P",
+      "gstin": "26AGMWB4616P1270",
+      "bank_account_name": "Sneha Retail",
+      "monthly_gmv": 3767274.16
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0189",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0030",
+      "legal_name": "Arjun Traders",
+      "trade_name": "Arjun Traders",
+      "pan": "XPRCL8123O",
+      "gstin": "21XPRCL8123O1393",
+      "bank_account_name": "Arjun Traders",
+      "monthly_gmv": 4758460.39
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "UNREADABLE_SCAN",
+        "detail": "Scan quality too low for OCR"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0190",
+    "cohort": "HARD",
+    "merchant": {
+      "merchant_id": "M-0190",
+      "legal_name": "Vikram Textiles",
+      "trade_name": "Vikram Textiles",
+      "pan": "RMIHI2696G",
+      "gstin": "10RMIHI2696G1520",
+      "bank_account_name": "Vikram Textiles",
+      "monthly_gmv": 4293711.03
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": true,
+    "hard_issue": "COMPLIANCE_SCREENING_HIT",
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0191",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0110",
+      "legal_name": "Karan Mart",
+      "trade_name": "Karan Mart",
+      "pan": "NCRED3222Y",
+      "gstin": "18NCRED3222Y1Z37",
+      "bank_account_name": "Karan Mart",
+      "monthly_gmv": 106606.88
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0192",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0081",
+      "legal_name": "Arjun Textiles",
+      "trade_name": "Arjun Textiles",
+      "pan": "LNVCX8894M",
+      "gstin": "33LNVCX8894M1440",
+      "bank_account_name": "Arjun Textiles",
+      "monthly_gmv": 1161466.86
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0193",
+    "cohort": "AMBIGUOUS",
+    "merchant": {
+      "merchant_id": "M-0174",
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd",
+      "pan": "RVJTH1075Y",
+      "gstin": "37RVJTH1075Y106Z",
+      "bank_account_name": "Anita Foods",
+      "monthly_gmv": 4839281.84
+    },
+    "document_issues": [],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "name_mismatch": {
+      "legal_name": "ABC Enterprises",
+      "trade_name": "ABC Enterprise Pvt Ltd"
+    },
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0194",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0093",
+      "legal_name": "Divya Mart",
+      "trade_name": "Divya Mart",
+      "pan": "TVBZQ4638Y",
+      "gstin": "36TVBZQ4638Y172Z",
+      "bank_account_name": "Divya Mart",
+      "monthly_gmv": 2191460.52
+    },
+    "document_issues": [
+      {
+        "doc_type": "ADDRESS_PROOF",
+        "issue": "MISSING_EVIDENCE",
+        "detail": "Address proof not attached"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0195",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0075",
+      "legal_name": "Arjun Traders",
+      "trade_name": "Arjun Traders",
+      "pan": "GLLNE3243T",
+      "gstin": "04GLLNE3243T1870",
+      "bank_account_name": "Arjun Traders",
+      "monthly_gmv": 517804.44
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0196",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0011",
+      "legal_name": "Divya Foods",
+      "trade_name": "Divya Foods",
+      "pan": "UUECL4476U",
+      "gstin": "07UUECL4476U1088",
+      "bank_account_name": "Divya Foods",
+      "monthly_gmv": 590881.71
+    },
+    "document_issues": [
+      {
+        "doc_type": "PAN_CARD",
+        "issue": "MISSING_PAGE",
+        "detail": "Page 2 missing from upload"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0197",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0045",
+      "legal_name": "Karan Traders",
+      "trade_name": "Karan Traders",
+      "pan": "ROKEJ7672R",
+      "gstin": "09ROKEJ7672R1Z47",
+      "bank_account_name": "Karan Traders",
+      "monthly_gmv": 651059.11
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0198",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0026",
+      "legal_name": "Priya Mart",
+      "trade_name": "Priya Mart",
+      "pan": "FUSMO9114Q",
+      "gstin": "36FUSMO9114Q16Z9",
+      "bank_account_name": "Priya Mart",
+      "monthly_gmv": 3082629.0
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "EXPIRED_UPLOAD",
+        "detail": "Bank statement older than 3 months"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0199",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0013",
+      "legal_name": "Divya Foods",
+      "trade_name": "Divya Foods",
+      "pan": "WXEAK9726X",
+      "gstin": "36WXEAK9726X1752",
+      "bank_account_name": "Divya Foods",
+      "monthly_gmv": 1127619.45
+    },
+    "document_issues": [
+      {
+        "doc_type": "GST_CERT",
+        "issue": "BLURRY",
+        "detail": "Page unreadable due to blur"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  },
+  {
+    "case_id": "VF-0200",
+    "cohort": "SAFE",
+    "merchant": {
+      "merchant_id": "M-0119",
+      "legal_name": "Anita Mart",
+      "trade_name": "Anita Mart",
+      "pan": "KHENG2814B",
+      "gstin": "36KHENG2814B1445",
+      "bank_account_name": "Anita Mart",
+      "monthly_gmv": 1972674.29
+    },
+    "document_issues": [
+      {
+        "doc_type": "BANK_PROOF",
+        "issue": "CROPPED",
+        "detail": "Document edges cropped, fields cut off"
+      }
+    ],
+    "gstin_active": true,
+    "restricted_flag": false,
+    "recovery_status": "not_started",
+    "recovery_action": "",
+    "recovery_attempts": 0,
+    "recovery_reason": "",
+    "estimated_recovered_revenue": 0.0
+  }
+]
